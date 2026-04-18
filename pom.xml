@@ -8,12 +8,12 @@
     <url>https://github.com/clean-arch-enablers-project/cae-utils-scheduler/blob/main/README.md</url>
     <groupId>com.clean-arch-enablers</groupId>
     <artifactId>cae-scheduler</artifactId>
-    <version>6.0.0-RC1</version>
+    <version>6.0.0-RC2</version>
     <packaging>jar</packaging>
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
-            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
         </license>
     </licenses>
     <scm>
@@ -42,7 +42,7 @@
         <dependency>
             <groupId>com.clean-arch-enablers</groupId>
             <artifactId>cae-mapped-exceptions</artifactId>
-            <version>1.0.0</version>
+            <version>6.0.0-RC1</version>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>

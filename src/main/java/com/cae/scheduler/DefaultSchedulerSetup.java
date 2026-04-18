@@ -9,10 +9,6 @@ import java.util.concurrent.TimeUnit;
 @Builder
 public class DefaultSchedulerSetup {
 
-    public static DefaultSchedulerSetup defaultInstance(){
-        return DefaultSchedulerSetup.builder().build();
-    }
-
     @Builder.Default
     private Boolean fixedRate = false;
     private Integer initialDelay;
